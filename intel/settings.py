@@ -31,7 +31,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'godslove-2pxdy.ondigitalocean.app'
+    'godslove-2pxdy.ondigitalocean.app',
+    'www.godslovedatahub.com'
 ]
 
 
