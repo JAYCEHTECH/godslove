@@ -67,14 +67,14 @@ INSTALLED_APPS = [
 
 JAZZMIN_SETTINGS = {
     # title of the window (Will default to current_admin_site.site_title if absent or None)
-    "site_title": "DataForAll",
-    "site_header": "DataForAll",
+    "site_title": "GL Data Hub",
+    "site_header": "GL Data Hub",
     # "site_logo": "img/site/bestPay Logo.png",
     # Title on the brand (19 chars max) (defaults to current_admin_site.site_header if absent or None)
-    "site_brand": "DataForAll",
-    "copyright": "DataForAll",
+    "site_brand": "GL Data Hub",
+    "copyright": "GL Data Hub",
     # "login_logo": "img/site/bp.png",
-    "welcome_sign": "Welcome to the DataForAll Admin",
+    "welcome_sign": "Welcome to the GL Data Hub Admin",
     "custom_css": 'css/admin.css',
     "user_avatar": 'user',
 }
